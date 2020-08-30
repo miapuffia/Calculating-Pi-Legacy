@@ -1,2 +1,2 @@
-# Calculating Pi
+# Calculating Pi-Legacy (Java)
 This program calculates digits of Pi by colliding squares with mass and velocity and counting the number of collisions in the negative direction. This may seem arbitrary but it's a graphical representation of a simple mathematical proof. The slider allows you to choose how many digits of Pi you will get. The numbers on the squares show their mass. The animation speed value controls the delay between graphical updates. This doesn't affect the result but slower values will produce less visual glitches.
